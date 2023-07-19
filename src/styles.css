@@ -56,3 +56,6 @@ hr {
   padding: 6px;
   border-radius: 10px;
 }
+p {
+  text-align: center;
+}
