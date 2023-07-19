@@ -33,15 +33,6 @@ img {
 .weather {
   padding-left: 65px;
 }
-#current-button {
-  color: #fff;
-  background-color: #0069d9;
-  border: none;
-  border-radius: 10px;
-  width: 120px;
-  margin-top: 20px;
-  padding: 8px;
-}
 #search-button {
   color: #fff;
   background-color: #0069d9;
@@ -60,7 +51,7 @@ hr {
 }
 
 #search-city {
-  width: 720px;
+  width: 830px;
   margin: 5px;
   padding: 6px;
   border-radius: 10px;
